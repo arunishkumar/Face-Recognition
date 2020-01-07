@@ -1,2 +1,2 @@
 # Face-Recognition
-Siamese network architecture Model
+Recognises faces using Siamese network architecture model
